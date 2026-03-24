@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Luxury Apartment Mumbai",
+    "price": "1,25,00,000",
+    "detail": "Bandra West, Mumbai, Maharashtra - Premium waterfront property with sea view",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Delhi Penthouses",
+    "price": "2,50,00,000",
+    "detail": "Lutyens Delhi, New Delhi - Spacious luxury apartments in prime location",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Bangalore Villa",
+    "price": "85,50,000",
+    "detail": "Indiranagar, Bangalore, Karnataka - Modern villa with garden and pool",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Pune Residential Complex",
+    "price": "65,75,000",
+    "detail": "Koregaon Park, Pune, Maharashtra - Upscale community with amenities",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Kolkata Heritage House",
+    "price": "95,00,000",
+    "detail": "Alipore, Kolkata, West Bengal - Victorian-style mansion with classic charm",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Hyderabad Tech City Flat",
+    "price": "55,50,000",
+    "detail": "Hi-Tech City, Hyderabad, Telangana - Modern apartment in IT hub",
+    "image": "./r3.png"
+  }
+]
